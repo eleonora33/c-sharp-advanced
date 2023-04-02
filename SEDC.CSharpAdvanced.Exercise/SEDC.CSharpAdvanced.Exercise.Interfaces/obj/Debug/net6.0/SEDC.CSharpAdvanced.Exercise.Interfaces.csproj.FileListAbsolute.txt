@@ -1,0 +1,15 @@
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\bin\Debug\net6.0\SEDC.CSharpAdvanced.Exercise.Interfaces.exe
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\bin\Debug\net6.0\SEDC.CSharpAdvanced.Exercise.Interfaces.deps.json
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\bin\Debug\net6.0\SEDC.CSharpAdvanced.Exercise.Interfaces.runtimeconfig.json
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\bin\Debug\net6.0\SEDC.CSharpAdvanced.Exercise.Interfaces.dll
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\bin\Debug\net6.0\SEDC.CSharpAdvanced.Exercise.Interfaces.pdb
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\obj\Debug\net6.0\SEDC.CSharpAdvanced.Exercise.Interfaces.csproj.AssemblyReference.cache
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\obj\Debug\net6.0\SEDC.CSharpAdvanced.Exercise.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\obj\Debug\net6.0\SEDC.CSharpAdvanced.Exercise.Interfaces.AssemblyInfoInputs.cache
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\obj\Debug\net6.0\SEDC.CSharpAdvanced.Exercise.Interfaces.AssemblyInfo.cs
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\obj\Debug\net6.0\SEDC.CSharpAdvanced.Exercise.Interfaces.csproj.CoreCompileInputs.cache
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\obj\Debug\net6.0\SEDC.CSharpAdvanced.Exercise.Interfaces.dll
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\obj\Debug\net6.0\refint\SEDC.CSharpAdvanced.Exercise.Interfaces.dll
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\obj\Debug\net6.0\SEDC.CSharpAdvanced.Exercise.Interfaces.pdb
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\obj\Debug\net6.0\SEDC.CSharpAdvanced.Exercise.Interfaces.genruntimeconfig.cache
+C:\Projects\c-sharp-advanced\SEDC.CSharpAdvanced.Exercise\SEDC.CSharpAdvanced.Exercise.Interfaces\obj\Debug\net6.0\ref\SEDC.CSharpAdvanced.Exercise.Interfaces.dll
