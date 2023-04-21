@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SEDC.TaxiManager9000.Models\SEDC.TaxiManager9000.Models.csproj" />
+    <ProjectReference Include="..\SEDC.TaxiManager9000.Repository\SEDC.TaxiManager9000.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
