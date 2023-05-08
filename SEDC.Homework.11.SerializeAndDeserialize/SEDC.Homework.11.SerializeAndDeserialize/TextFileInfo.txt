@@ -1,0 +1,27 @@
+This is some text that we're writing to the file.
+Here's another line of text.
+SEDC.Homework._11.Dog
+SEDC.Homework._11.Dog
+SEDC.Homework._11.Dog
+SEDC.Homework._11.Dog
+
+Cezar
+Cezar
+Black
+2
+Sika - Blue - 5
+Cezar - Sika - 5
+Eli - Todo - 5
+Lana - Black - 5
+Borce - Blue - 5
+Cezar af af - BrownBlack - 5
+Mafi - Black - 5
+Kiiki - RedYellow - 6
+{"Name":"Kiiki","Color":"RedYellow","Age":6}
+{"Name":"Toni","Color":"Banana","Age":4}
+{"Name":"Lela","Color":"Yellow","Age":4}
+{"Name":"Quit","Color":"Game","Age":5}
+{"Name":"EE","Color":"pet","Age":3}
+{"Name":"Kokan","Color":"Pink","Age":5}
+{"Name":"jkvjlkf","Color":"/.fvkf;lv","Age":5}
+{"Name":"lksdkks","Color":"ldkjfldsjflk","Age":5}
