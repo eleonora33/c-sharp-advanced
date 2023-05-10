@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEDC.MainHomework.TimeTracking.App", "SEDC.MainHomework.TimeTracking.App\SEDC.MainHomework.TimeTracking.App.csproj", "{87440854-DEFF-46E7-98B4-AFF15969312A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEDC.MainHomework.TimeTracking.BusinessLogic", "SEDC.MainHomework.TimeTracking.AuthenticationServices\SEDC.MainHomework.TimeTracking.BusinessLogic.csproj", "{02EF0531-31E4-45E9-8094-DCAC4AEFF6CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEDC.MainHomework.TimeTracking.Models", "SEDC.MainHomework.TimeTracking.Models\SEDC.MainHomework.TimeTracking.Models.csproj", "{10C53428-C250-473D-81B7-CCEBC50F6BFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEDC.MainHomework.TimeTracking.TextHelper", "SEDC.MainHomework.TimeTracking.TextHelper\SEDC.MainHomework.TimeTracking.TextHelper.csproj", "{AA446657-9AF0-40D3-8A6A-78E97F3FA857}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEDC.MainHomework.TimeTracking.Repository", "SEDC.MainHomework.TimeTracking.Repository\SEDC.MainHomework.TimeTracking.Repository.csproj", "{B1031115-44CB-4905-8A08-B88BBB5D0D41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEDC.MainHomework.TimeTracking.Enum", "SEDC.MainHomework.TimeTracking.Enum\SEDC.MainHomework.TimeTracking.Enum.csproj", "{1600B582-4568-483F-AD73-71DB2077FC12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87440854-DEFF-46E7-98B4-AFF15969312A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87440854-DEFF-46E7-98B4-AFF15969312A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87440854-DEFF-46E7-98B4-AFF15969312A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87440854-DEFF-46E7-98B4-AFF15969312A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02EF0531-31E4-45E9-8094-DCAC4AEFF6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EF0531-31E4-45E9-8094-DCAC4AEFF6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EF0531-31E4-45E9-8094-DCAC4AEFF6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EF0531-31E4-45E9-8094-DCAC4AEFF6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C53428-C250-473D-81B7-CCEBC50F6BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C53428-C250-473D-81B7-CCEBC50F6BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C53428-C250-473D-81B7-CCEBC50F6BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C53428-C250-473D-81B7-CCEBC50F6BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA446657-9AF0-40D3-8A6A-78E97F3FA857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA446657-9AF0-40D3-8A6A-78E97F3FA857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA446657-9AF0-40D3-8A6A-78E97F3FA857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA446657-9AF0-40D3-8A6A-78E97F3FA857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1031115-44CB-4905-8A08-B88BBB5D0D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1031115-44CB-4905-8A08-B88BBB5D0D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1031115-44CB-4905-8A08-B88BBB5D0D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1031115-44CB-4905-8A08-B88BBB5D0D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1600B582-4568-483F-AD73-71DB2077FC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1600B582-4568-483F-AD73-71DB2077FC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1600B582-4568-483F-AD73-71DB2077FC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1600B582-4568-483F-AD73-71DB2077FC12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {576D6870-0843-42C9-89B7-21E1812AA4D1}
+	EndGlobalSection
+EndGlobal

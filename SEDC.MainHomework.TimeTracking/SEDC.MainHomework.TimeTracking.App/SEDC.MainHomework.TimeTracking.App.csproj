@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SEDC.MainHomework.TimeTracking.AuthenticationServices\SEDC.MainHomework.TimeTracking.BusinessLogic.csproj" />
+    <ProjectReference Include="..\SEDC.MainHomework.TimeTracking.Models\SEDC.MainHomework.TimeTracking.Models.csproj" />
+    <ProjectReference Include="..\SEDC.MainHomework.TimeTracking.Repository\SEDC.MainHomework.TimeTracking.Repository.csproj" />
+    <ProjectReference Include="..\SEDC.MainHomework.TimeTracking.TextHelper\SEDC.MainHomework.TimeTracking.TextHelper.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="DatabaseFiles\Exercises.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="DatabaseFiles\Hobby.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="DatabaseFiles\Readings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="DatabaseFiles\Users.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="DatabaseFiles\Working.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
