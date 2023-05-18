@@ -5,11 +5,11 @@ namespace SEDC.MainHomework.TimeTracking.Repository
 {
     public static class Database
     {
-        public static string exercisePath = "C:\\Projects\\c-sharp-advanced\\SEDC.MainHomework.TimeTracking\\SEDC.MainHomework.TimeTracking.App\\DatabaseFiles\\Exercises.json";
-        public static string workingPath = "C:\\Projects\\c-sharp-advanced\\SEDC.MainHomework.TimeTracking\\SEDC.MainHomework.TimeTracking.App\\DatabaseFiles\\Working.json";
-        public static string readingPath = "C:\\Projects\\c-sharp-advanced\\SEDC.MainHomework.TimeTracking\\SEDC.MainHomework.TimeTracking.App\\DatabaseFiles\\Readings.json";
-        public static string hobbyPAth = "C:\\Projects\\c-sharp-advanced\\SEDC.MainHomework.TimeTracking\\SEDC.MainHomework.TimeTracking.App\\DatabaseFiles\\Hobby.json";
-        public static string usersPath = "C:\\Projects\\c-sharp-advanced\\SEDC.MainHomework.TimeTracking\\SEDC.MainHomework.TimeTracking.App\\DatabaseFiles\\Users.json";
+        public static string exercisePath = "..\\..\\..\\DatabaseFiles\\Exercises.json";
+        public static string workingPath = "..\\..\\..\\DatabaseFiles\\Working.json";
+        public static string readingPath = "..\\..\\..\\DatabaseFiles\\Readings.json";
+        public static string hobbyPAth = "..\\..\\..\\DatabaseFiles\\Hobby.json";
+        public static string usersPath = "..\\..\\..\\DatabaseFiles\\Users.json";
         public static List<User> Users { get; set; } = string.IsNullOrEmpty(File.ReadAllText(usersPath))
             ? new List<User>
             {
